@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010/09/07 07:57:05.204.pas,C:\Users\Suhendra Ahmad\Documents\RAD Studio\Projects\Unit1.pas=D:\Projects\iShamela\Bok Reader\uMain.pas</Transaction>
+    <Transaction>2010/09/07 07:57:05.221.dfm,C:\Users\Suhendra Ahmad\Documents\RAD Studio\Projects\Unit1.dfm=D:\Projects\iShamela\Bok Reader\uMain.dfm</Transaction>
+    <Transaction>2010/09/07 07:57:08.919.dproj,C:\Users\Suhendra Ahmad\Documents\RAD Studio\Projects\Project1.dproj=D:\Projects\iShamela\Bok Reader\BokReader.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

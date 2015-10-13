@@ -1,0 +1,18 @@
+F:\Projects\iShamela\Shamela Converter\Shamela Converter\bin\Debug\Shamela Converter.exe.config
+F:\Projects\iShamela\Shamela Converter\Shamela Converter\bin\Debug\Shamela Converter.exe.manifest
+F:\Projects\iShamela\Shamela Converter\Shamela Converter\bin\Debug\Shamela Converter.application
+F:\Projects\iShamela\Shamela Converter\Shamela Converter\bin\Debug\Shamela Converter.exe
+F:\Projects\iShamela\Shamela Converter\Shamela Converter\bin\Debug\Shamela Converter.pdb
+F:\Projects\iShamela\Shamela Converter\Shamela Converter\bin\Debug\Ionic.Zip.dll
+F:\Projects\iShamela\Shamela Converter\Shamela Converter\bin\Debug\Plist.dll
+F:\Projects\iShamela\Shamela Converter\Shamela Converter\bin\Debug\System.Data.SQLite.dll
+F:\Projects\iShamela\Shamela Converter\Shamela Converter\bin\Debug\Ionic.Zip.pdb
+F:\Projects\iShamela\Shamela Converter\Shamela Converter\bin\Debug\Ionic.Zip.xml
+F:\Projects\iShamela\Shamela Converter\Shamela Converter\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\iShamela\Shamela Converter\Shamela Converter\obj\Debug\iShamela.MainForm.resources
+F:\Projects\iShamela\Shamela Converter\Shamela Converter\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Projects\iShamela\Shamela Converter\Shamela Converter\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Projects\iShamela\Shamela Converter\Shamela Converter\obj\Debug\Shamela Converter.exe.manifest
+F:\Projects\iShamela\Shamela Converter\Shamela Converter\obj\Debug\Shamela Converter.application
+F:\Projects\iShamela\Shamela Converter\Shamela Converter\obj\Debug\Shamela Converter.exe
+F:\Projects\iShamela\Shamela Converter\Shamela Converter\obj\Debug\Shamela Converter.pdb

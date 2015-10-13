@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010/08/30 09:40:20.932.pas,C:\Users\Suhendra Ahmad\Documents\RAD Studio\Projects\Unit1.pas=D:\Projects\iShamela\Box Converter\nMain.pas</Transaction>
+    <Transaction>2010/08/30 09:40:20.932.dfm,C:\Users\Suhendra Ahmad\Documents\RAD Studio\Projects\Unit1.dfm=D:\Projects\iShamela\Box Converter\nMain.dfm</Transaction>
+    <Transaction>2010/08/30 09:40:25.435.dproj,C:\Users\Suhendra Ahmad\Documents\RAD Studio\Projects\Project1.dproj=D:\Projects\iShamela\Box Converter\BokConverter.dproj</Transaction>
+    <Transaction>2010/08/30 10:14:07.977.pas,D:\Projects\iShamela\Box Converter\nMain.pas=D:\Projects\iShamela\Box Converter\vMain.pas</Transaction>
+    <Transaction>2010/08/30 10:14:07.977.dfm,D:\Projects\iShamela\Box Converter\nMain.dfm=D:\Projects\iShamela\Box Converter\vMain.dfm</Transaction>
+    <Transaction>2010/08/30 10:14:24.542.pas,D:\Projects\iShamela\Box Converter\Unit1.pas=D:\Projects\iShamela\Box Converter\cMain.pas</Transaction>
+  </Transactions>
+</BorlandProject>
